@@ -1,0 +1,20 @@
+.footer-icones {
+  color: #1EDD88;
+  justify-content: center;
+  font-family: "Font Awesome 6 Brands";
+  font-size: 40px;
+}
+
+.footer-icones i {
+  transition: 2s;
+}
+
+.footer-icones i:hover {
+  color: #50ffb0;
+  text-shadow: 0px 0px 50px #1EDD88;
+  justify-content: center;
+  font-family: "Font Awesome 6 Brands";
+  font-size: 40px;
+  transition: 0.2s;
+
+}
